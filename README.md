@@ -103,7 +103,3 @@ O projeto estará disponível em `http://localhost:3000` para o frontend e `http
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
----
-
-Essa documentação apresenta o projeto, as tecnologias usadas, funcionalidades disponíveis e as instruções para rodar a aplicação.
