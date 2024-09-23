@@ -43,13 +43,13 @@ O frontend, desenvolvido em React.js, consome a API e oferece uma interface intu
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seuusuario/nome-do-repositorio.git
+    git clone https://github.com/dennys1994/ManageStock.git
     ```
 
 2. Navegue até a pasta do projeto backend:
 
     ```bash
-    cd nome-do-repositorio/backend
+    cd ManageStock/backend/laravel
     ```
 
 3. Instale as dependências do Laravel:
@@ -77,7 +77,7 @@ O frontend, desenvolvido em React.js, consome a API e oferece uma interface intu
 1. Navegue até a pasta do projeto frontend:
 
     ```bash
-    cd nome-do-repositorio/frontend
+    cd ManageStock/frontend
     ```
 
 2. Instale as dependências do React:
